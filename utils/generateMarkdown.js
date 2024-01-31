@@ -34,7 +34,7 @@ ${data.description}
 ${data.link}
 
 ## Screenshot
-![alt-text](${data.screenshot})
+
 
 ## Table of Contents
 [Features](#features),
@@ -57,7 +57,7 @@ ${data.usage}
 ${data.contributors}
 
 ## Testing
-${data.test}
+
 
 ## Questions
 Please send your questions ${data.email} or visit [${data.creator}](https://github.com/${data.creator}).
