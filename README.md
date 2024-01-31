@@ -9,7 +9,7 @@ A Professional Readme Generator, that when you fill out the node.js it will be p
 github.com/DakotaK92
 
 ## Screenshot
-![alt-text](undefined)
+![Challenge-9 Screenshot](https://github.com/DakotaK92/Challenge-9/assets/46942706/33e4b14b-8d83-42ae-b7f1-6c82d28a70d4)
 
 ## Table of Contents
 [Features](#features),
