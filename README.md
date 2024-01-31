@@ -32,7 +32,6 @@ javascript, node.js, inquirer
 N/A
 
 ## Testing
-undefined
 
 ## Questions
 Please send your questions dakotaking92@gmail.com or visit [DakotaK92](https://github.com/DakotaK92).
