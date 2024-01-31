@@ -3,10 +3,10 @@ by Dakota
 ![Github license](https://img.shields.io/badge/license-MIT,Boost1.0,MPL2.0,BSD2-blue.svg)
 
 ## Description
-A Professional Readme Generator, that when you fill out the node.js it will be plugged into the README.mf file.
+To create a professial readme with the input that the reader wants. It also has a licensing to tell the read what liceasing this readme has.
 
 ## Deployed Application URL
-github.com/DakotaK92
+github.com/DakotaK92/Challenge-9
 
 ## Screenshot
 ![Challenge-9 Screenshot](https://github.com/DakotaK92/Challenge-9/assets/46942706/33e4b14b-8d83-42ae-b7f1-6c82d28a70d4)
@@ -29,7 +29,7 @@ Inquirer
 javascript, node.js, inquirer
 
 ## Contributors
-N?A
+N/A
 
 ## Testing
 undefined
