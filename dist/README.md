@@ -1,12 +1,12 @@
 # Professional README.md Generator 
-by Dakota
-![Github license](https://img.shields.io/badge/license-MIT,Boost1.0,BSD2,BSD3-blue.svg)
+by Dakota K
+![Github license](https://img.shields.io/badge/license-MIT,Boost1.0,BSD2-blue.svg)
 
 ## Description
-To create a professial readme with the input that the reader wants. It also has a licensing to tell the read what liceasing this readme has.
+For the user/reader to be able to fill in a README.md Generator with these short answers.
 
 ## Deployed Application URL
-github.com/DakotaK92/Challenge-9
+github.com/DakotaK92
 
 ## Screenshot
 
@@ -20,13 +20,13 @@ github.com/DakotaK92/Challenge-9
 [Questions](#questions),
 
 ## Features
-Badges, User inputs
+A badge that appears at the top of the README.md
 
 ## Languages & Dependencies
 Inquirer
 
 ## How to Use This Application:
-javascript, node.js, generateMarkdown
+javascript, node.js
 
 ## Contributors
 N/A
