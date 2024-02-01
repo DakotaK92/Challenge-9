@@ -6,7 +6,7 @@ by Dakota K
 For the user/reader to be able to fill in a README.md Generator with these short answers.
 
 ## Deployed Application URL
-github.com/DakotaK92
+[github.com/DakotaK92](https://dakotak92.github.io/Challenge-9/)
 
 ## Screenshot
 ![Challenge-9 Screenshot](https://github.com/DakotaK92/Challenge-9/assets/46942706/33e4b14b-8d83-42ae-b7f1-6c82d28a70d4)
