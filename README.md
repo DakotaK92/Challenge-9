@@ -1,6 +1,6 @@
 # Professional Readme Generator
 by Dakota K
-![Github license](https://img.shields.io/badge/license-MIT,Boost1.0,MPL2.0,BSD2-blue.svg)
+![Github license](https://img.shields.io/badge/license-MIT,Boost1.0,BSD2-blue.svg)
 
 ## Description
 For the user/reader to be able to fill in a README.md Generator with these short answers.
