@@ -9,7 +9,7 @@ For the user/reader to be able to fill in a README.md Generator with these short
 github.com/DakotaK92
 
 ## Screenshot
-
+![Challenge-9 Screenshot](https://github.com/DakotaK92/Challenge-9/assets/46942706/33e4b14b-8d83-42ae-b7f1-6c82d28a70d4)
 
 ## Table of Contents
 [Features](#features),
@@ -33,6 +33,7 @@ N/A
 
 ## Testing
 
+https://github.com/DakotaK92/Challenge-9/assets/46942706/98c95eca-dd23-45f3-aa9a-de84fd25d597
 
 ## Questions
 Please send your questions dakotaking92@gmail.com or visit [DakotaK92](https://github.com/DakotaK92).
