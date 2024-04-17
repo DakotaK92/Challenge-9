@@ -12,12 +12,12 @@ For the user/reader to be able to fill in a README.md Generator with these short
 ![Challenge-9 Screenshot](https://github.com/DakotaK92/Challenge-9/assets/46942706/33e4b14b-8d83-42ae-b7f1-6c82d28a70d4)
 
 ## Table of Contents
-[Features](#features),
-[Langauges & Dependencies](#languagesanddependencies),
-[How to Use This Application](#HowtoUseThisApplication),
-[Contributors](#contributors),
-[Testing](#testing),
-[Questions](#questions),
++ [Features](#features),
++ [Langauges & Dependencies](#languagesanddependencies),
++ [How to Use This Application](#HowtoUseThisApplication),
++ [Contributors](#contributors),
++ [Testing](#testing),
++ [Questions](#questions),
 
 ## Features
 A badge that appears at the top of the README.md
